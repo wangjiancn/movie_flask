@@ -4,4 +4,4 @@ from . import admin
 
 @admin.route('/')
 def index():
-    return "<h1 style = 'color:red'>This is admin back<h1>"
+    return "<h1 style = 'color:red'> this is is admin back<h1>"
